@@ -1,11 +1,16 @@
 _repo: War-52-Carey-Cartoons_67566
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67566-h/images/cover.jpg
 creator:
   editor:
     agent_name: Smith, Ray
     gutenberg_agent_id: '54332'
     url: http://www.gutenberg.org/2009/agents/54332
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67566#War-52-Carey-Cartoons
 gutenberg_issued: '2022-03-05'
 identifiers:
   gutenberg: '67566'
